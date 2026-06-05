@@ -1,17 +1,39 @@
-# Professional Certifcate Portfolio
-This repository contains my professional certificates related to compliance, AML, Fintech and Data Analytics.
-## Areas of Expertise
-- Anti-Money Laundering (AML)
-- Financial Crime Specialist
-- Fraud Risk & Investigation
-- Data Analytics
+# Gurpreet Singh – Professional Certifications Portfolio
 
-  ## Certificates
-  ### AML & Compliance
-  - Certified in Know Your Customer (KYC) & Anti-Money Laundering (AML) – Indian Institute of Banking & Finance (IIBF)
-  - Certified  Data Analytics
-  - Certified Risk-Based Investigation Model (RBI) Certification
-  - FinCrime Detection and Prevention: Money Laundering, Terrorism Financing, CCO and Modern
- 
-  # Verrification
-All certificates are available in this repository for verification.
+## 👨‍💼 About
+This repository showcases my verified certifications in **Anti-Money Laundering (AML), Compliance, Financial Crime Prevention, and Data Analytics**.
+
+I am currently building expertise in financial compliance and risk operations.
+
+---
+
+## 📌 Core Skills
+- Anti-Money Laundering (AML)
+- KYC / CDD / EDD Processes
+- Fraud & Risk Analysis
+- Financial Crime Compliance
+- Data Analytics (Basic)
+
+---
+
+## 📁 Certifications
+
+### 🔹 AML & Compliance
+- ICA AML Certificate
+- IIBF Certificate
+
+### 🔹 Data Analytics
+- Google Data Analytics – Coursera
+
+---
+
+## 🔗 Verification
+All certificates are uploaded in this repository for transparency and verification.
+
+👉 GitHub Portfolio:  
+https://github.com/SodhiGurpreet/gurpreet-certificates
+
+---
+
+## 📍 Career Objective
+To work in AML / Compliance / Financial Crime roles in global fintech or banking organizations.
