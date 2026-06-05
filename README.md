@@ -14,4 +14,4 @@ This repository contains my professional certificates related to compliance, AML
   - FinCrime Detection and Prevention: Money Laundering, Terrorism Financing, CCO and Modern
  
   # Verrification
-All certificates are availabl in this repository for verification.
+All certificates are available in this repository for verification.
